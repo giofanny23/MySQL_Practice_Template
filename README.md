@@ -1,4 +1,4 @@
-# MySQL_Training_Sample
+# MySQL_Practice_Sample
 
 Repository to try to make, alter, join, and other in MySQL
 
